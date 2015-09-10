@@ -3,7 +3,14 @@ body
     background: greenyellow;
     color:white;
 }
+
 p
 {
     color:orange;
+    font-size:18px;
+
+h1
+{ 
+    color:purple;
+
 }
