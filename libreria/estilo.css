@@ -1,16 +1,16 @@
 body
 {
-    background: greenyellow;
+    background: fuchsia;
     color:white;
 }
-
 p
 {
     color:orange;
     font-size:18px;
-
+}
 h1
 { 
     color:purple;
 
 }
+
