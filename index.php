@@ -17,7 +17,7 @@
                 <p>aca el contenido</p>
             </div>
             <div class="col-lg-1">
-                <img src="imagenes/blue.jpg" class="responsive"/>
+                <img src="imagenes/7d.jpg" class="responsive"/>
             </div>
         </div>
         
