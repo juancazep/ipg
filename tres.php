@@ -9,11 +9,11 @@
 <style>
     body
     {
-        background: #1D4000;
+        background: #254000;
     }
     h1
     {
-        color: #1D4000;
+        color: #254000;
     }
     header
     {
@@ -21,11 +21,11 @@
     }
     .titulo
     {
-        background: #67E500;
+        background: #94FF00;
     }
     p
     {
-        color: #67E500;
+        color: #94FF00;
     }
     .justi
     {

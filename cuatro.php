@@ -9,11 +9,11 @@
 <style>
     body
     {
-        background: #1D4000;
+        background: #400300;
     }
     h1
     {
-        color: #1D4000;
+        color: #400300;
     }
     header
     {
@@ -21,11 +21,11 @@
     }
     .titulo
     {
-        background: #67E500;
+        background: #E50A00;
     }
     p
     {
-        color: #67E500;
+        color: #E50A00;
     }
     .justi
     {
@@ -33,7 +33,7 @@
     }
     hr
     {
-        border:solid 4px #1D4000;
+        border:solid 4px #400300;
     }
 </style>
 </head>
