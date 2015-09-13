@@ -1,4 +1,15 @@
 body
 {
-    background: red;
+    background: purple;
+    color:white;
+}
+p
+{
+    color:orange;
+    font-size:1em;
+}
+h1
+{ 
+    color:goldenrod;
+    font-size: 2em;
 }
