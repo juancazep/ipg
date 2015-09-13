@@ -45,7 +45,7 @@
         <div class="row titulo">
             <div class="col-xs-12">
                 <hr></hr>
-                <h1>MATEMATICA BASICA </h1>
+                <h1>MATEMATICA BASICA II</h1>
                 <h1> CON APLIACIONES</h1>
                 <hr></hr>
             </div>
