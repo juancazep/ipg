@@ -63,6 +63,11 @@
                 <img src="imagenes/7d.jpg" class="responsive">    
             </div>
         </div>
+    <div class="row">
+        <div class="col-xs-4 justi">
+                <img src="imagenes/7d.jpg" class="responsive">    
+        </div>
+    </div>
  
 </body>
 </html>
