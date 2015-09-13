@@ -1,23 +1,4 @@
 body
 {
     background: red;
-    color:white;
-}
-p
-{
-    color:orange;
-    font-size:1em;
-}
-h1
-{ 
-    color:goldenrod;
-    font-size: 2em;
-}
-.uno_clase2
-{
-    background: purple;
-}
-.dos_clase2
-{
-    background: red;
 }
