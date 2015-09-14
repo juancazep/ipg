@@ -19,3 +19,7 @@ body
 {
     text-shadow: calc;
 }
+.segunda
+{
+    border-bottom: solid red 5px;
+}
