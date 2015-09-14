@@ -3,7 +3,6 @@ body
     background: purple;
     color:white;
 }
-
 .yyyy
 {
     color:graytext;
@@ -11,9 +10,12 @@ body
 .xxxx
 {
     color:beige;
-
 }
 .aaa
 {
     box-shadow: turquoise;
+}
+.ccc
+{
+    text-shadow: calc;
 }
