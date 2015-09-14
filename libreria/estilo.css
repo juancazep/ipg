@@ -19,3 +19,7 @@ body
 {
     cursor: pointer;
 }
+.dos
+{
+    border:solid 1px magenta;
+}
