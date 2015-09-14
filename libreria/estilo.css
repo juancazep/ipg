@@ -19,3 +19,7 @@ body
 {
     text-shadow: calc;
 }
+.primera
+{
+    background-repeat: repeat-x;
+}
