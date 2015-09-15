@@ -7,3 +7,13 @@ body
 {
     cursor: crosshair;
 }
+#juanca
+{
+    background: red;
+    width: 100%;
+    height: 200px;
+}
+#cla
+{
+    color:#33f90d;
+}
