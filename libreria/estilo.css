@@ -3,3 +3,7 @@ body
     background: purple;
     color:white;
 }
+.clase
+{
+    cursor: crosshair;
+}
