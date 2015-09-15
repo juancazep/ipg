@@ -29,3 +29,19 @@ body
 {
     height: 5em;
 }
+.enone
+{
+    background: red;
+}
+.enone2
+{
+    color:red;
+}
+.enone3
+{
+    font: arial;
+}
+#masterone
+{
+    nav-up: initial;
+}
