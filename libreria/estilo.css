@@ -6,8 +6,49 @@ body
 .masterone
 {
     background: chartreuse;
+    background: red;
+    width: 100%;
+    height: 200px;
 }
 .adelia
 {
+
     color:darkorange
+}
+#cla
+{
+    color:#33f90d;
+}
+.tyson
+{
+    background: black;
+}
+.perla
+{
+    background: seashell;
+}
+.hhh
+{
+    height: 5em;
+}
+.enone
+{
+    background: red;
+}
+.enone2
+{
+    color:red;
+}
+.enone3
+{
+    font: arial;
+}
+#masterone
+{
+    nav-up: initial;
+}
+.pantera
+{
+    border:solid 1em forestgreen;
+>>>>>>> master#one
 }
