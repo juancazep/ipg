@@ -3,7 +3,12 @@ body
     background: purple;
     color:white;
 }
-.masterone
+.clase
+{
+    cursor: crosshair;
+}
+#juanca
+
 {
     background: chartreuse;
     background: red;
@@ -50,5 +55,5 @@ body
 .pantera
 {
     border:solid 1em forestgreen;
->>>>>>> master#one
+
 }
